@@ -13,3 +13,11 @@ yarn-error.log*
 # OS artifacts
 .DS_Store
 Thumbs.db
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Uploads (optional - remove if you want to track uploads)
+uploads/
