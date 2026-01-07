@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "exportedAt": "2025-12-12T17:15:05.622Z",
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "cesar@infiniguard.com",
+      "password": "123",
+      "rol": "admin",
+      "nombre": "Cesar"
+    },
+    {
+      "id": 2,
+      "email": "julio@infiniguard.com",
+      "password": "123",
+      "rol": "tecnico",
+      "nombre": "Julio"
+    },
+    {
+      "id": 3,
+      "email": "brayan@infiniguard.com",
+      "password": "123",
+      "rol": "tecnico",
+      "nombre": "Brayan"
+    },
+    {
+      "id": 4,
+      "email": "pedrito@infiniguard.com",
+      "password": "123",
+      "rol": "tecnico",
+      "nombre": "Pedrito"
+    },
+    {
+      "id": 5,
+      "email": "roberto@infiniguard.com",
+      "password": "123",
+      "rol": "distribuidor",
+      "nombre": "Roberto"
+    },
+    {
+      "id": 6,
+      "email": "sandra@infiniguard.com",
+      "password": "123",
+      "rol": "distribuidor",
+      "nombre": "Sandra"
+    },
+    {
+      "id": 7,
+      "email": "miguel@infiniguard.com",
+      "password": "123",
+      "rol": "distribuidor",
+      "nombre": "Miguel"
+    },
+    {
+      "id": 8,
+      "email": "carlos@infiniguard.com",
+      "password": "123",
+      "rol": "cliente",
+      "nombre": "Carlos"
+    },
+    {
+      "id": 9,
+      "email": "maria@infiniguard.com",
+      "password": "123",
+      "rol": "cliente",
+      "nombre": "Maria"
+    },
+    {
+      "id": 10,
+      "email": "jorge@infiniguard.com",
+      "password": "123",
+      "rol": "cliente",
+      "nombre": "Jorge"
+    },
+    {
+      "id": 11,
+      "email": "ana@infiniguard.com",
+      "password": "123",
+      "rol": "cliente",
+      "nombre": "Ana"
+    },
+    {
+      "id": 12,
+      "email": "luis@infiniguard.com",
+      "password": "123",
+      "rol": "cliente",
+      "nombre": "Luis"
+    },
+    {
+      "id": 1765559705622,
+      "nombre": "Test",
+      "email": "test@infiniguard.com",
+      "password": "123",
+      "rol": "cliente"
+    }
+  ],
+  "servicios": []
+}

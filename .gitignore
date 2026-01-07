@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Env and local files
+.env
+.env.*
+*.local
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
